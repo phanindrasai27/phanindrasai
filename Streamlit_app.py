@@ -9,7 +9,7 @@ st.write('''# Phanindra Sai,    Integrated M.Tceh in specialization of Business 
 #### *Resume*
 ''')
 
-image_path = "Arty_me.png"
+image_path = "gif.jpeg"
 st.image(image_path, width=250)
 
 st.markdown('## Summary', unsafe_allow_html=True)
